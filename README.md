@@ -1,7 +1,5 @@
 # loan-default-analysis
 
-# Loan Default Prediction
-
 ## Overview
 Predicting loan defaults is crucial for financial risk assessment and lending decisions. This involves collecting historical loan data, preprocessing it (handling missing values, encoding categorical variables, and selecting relevant features), and training machine learning models such as XGBoost and Random Forest. The model’s performance is evaluated using metrics like accuracy, precision, recall, and AUC.
 
